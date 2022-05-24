@@ -1,0 +1,15 @@
+{
+    "webhook-urls": "your webhook url here",
+    "subreddits": "india",
+
+    "options": {
+        "allow_nsfw": false,
+        "send_embeds": true,
+        "embed_color": "ff5700"
+    },
+
+    "extra": {
+        "webhook_name": "Reddit feed",
+        "avatar_url": "https://www.designyourway.net/blog/wp-content/uploads/2021/01/reddit-fonts.jpeg"
+    }
+}
