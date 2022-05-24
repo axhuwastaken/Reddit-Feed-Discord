@@ -1,18 +1,17 @@
 # Reddit feed discord
 ### Get [reddit](http://reddit.com) feed directly into your discord server's!
 
-<br>
 
 ## Simple and light weight
 Instead of using discord bot for reddit feed, i choose webhooks it is lightweight and requires less resource to run can host easily :)
 
-<br>
+
 
 ## Key features
 * `Send reddit' new posts to discord within 10-20s.`
 * `NSFW Filter: (helps you to stay away from unwanted stuff)`
 * `Local DB for Caching (you don't have to setup)`
-<br><br>
+
 ## Now let's see how to setup 🚀
 1. first let's setup our `config.json`
 
@@ -50,7 +49,7 @@ python main.py
 Done!
 
 one more thing until you don't know what you are doing don't make any changes in `db.json`
-<br><br>
+
 
 ## Some word
 **Contributors are heartly welcomed**💓
